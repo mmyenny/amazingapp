@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  genre: MyString
+  performance_date: 2018-12-20
+
+two:
+  title: MyString
+  genre: MyString
+  performance_date: 2018-12-20
